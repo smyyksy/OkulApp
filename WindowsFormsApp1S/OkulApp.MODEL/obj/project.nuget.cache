@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6oXxOTqZiSAWBA715paUe862OVSWWpauEqvOejbxjf8bFk4xEmP7PU8gpt4tq5ONC5XIfgD1Ux0E74hxDNQAew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SUMEYYE\\source\\repos\\WindowsFormsApp1S\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUMEYYE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SUMEYYE\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

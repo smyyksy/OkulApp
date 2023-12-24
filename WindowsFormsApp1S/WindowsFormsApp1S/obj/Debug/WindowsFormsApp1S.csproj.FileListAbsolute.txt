@@ -1,0 +1,9 @@
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.csproj.AssemblyReference.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.Properties.Resources.resources
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.csproj.GenerateResource.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.csproj.CoreCompileInputs.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\bin\Debug\WindowsFormsApp1S.exe.config
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\bin\Debug\WindowsFormsApp1S.exe
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\bin\Debug\WindowsFormsApp1S.pdb
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.exe
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\WindowsFormsApp1S\obj\Debug\WindowsFormsApp1S.pdb

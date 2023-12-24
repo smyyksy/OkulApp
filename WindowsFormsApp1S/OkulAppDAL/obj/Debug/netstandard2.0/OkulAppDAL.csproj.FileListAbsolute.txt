@@ -1,0 +1,10 @@
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\bin\Debug\netstandard2.0\OkulAppDAL.deps.json
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\bin\Debug\netstandard2.0\OkulAppDAL.dll
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\bin\Debug\netstandard2.0\OkulAppDAL.pdb
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.csproj.AssemblyReference.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.AssemblyInfoInputs.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.AssemblyInfo.cs
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.dll
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppDAL\obj\Debug\netstandard2.0\OkulAppDAL.pdb

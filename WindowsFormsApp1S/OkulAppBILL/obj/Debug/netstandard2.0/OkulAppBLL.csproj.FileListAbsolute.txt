@@ -1,0 +1,5 @@
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppBILL\obj\Debug\netstandard2.0\OkulAppBLL.csproj.AssemblyReference.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppBILL\obj\Debug\netstandard2.0\OkulAppBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppBILL\obj\Debug\netstandard2.0\OkulAppBLL.AssemblyInfoInputs.cache
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppBILL\obj\Debug\netstandard2.0\OkulAppBLL.AssemblyInfo.cs
+C:\Users\SUMEYYE\source\repos\WindowsFormsApp1S\OkulAppBILL\obj\Debug\netstandard2.0\OkulAppBLL.csproj.CoreCompileInputs.cache
